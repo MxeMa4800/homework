@@ -11,7 +11,4 @@ for x in range(10):  #วนลูปเป็นจำนวน 10 ครั้
   
 print("Set a = ",a)
 print(a)
-print('arai_na')
-print('arai_na')
-print('arai_na')
-print('arai_na')
+print("3322")
