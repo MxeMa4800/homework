@@ -12,3 +12,4 @@ for x in range(10):  #วนลูปเป็นจำนวน 10 ครั้
 print("Set a = ",a)
 print(a)
 print("55555555")
+print("123456")
